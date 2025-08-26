@@ -1,0 +1,1 @@
+print("Meu","nome","é","Leonardo","Alexsander","Ferreira", sep="-")

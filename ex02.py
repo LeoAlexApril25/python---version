@@ -1,0 +1,1 @@
+print("Salve meu nobre,","não tem como se dor um pix aí,","eu estou duro.")
